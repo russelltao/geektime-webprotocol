@@ -38,5 +38,5 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 ### 2.4.6 其他文档：
 * MIME扩展类型https://www.iana.org/assignments/media-types/media-types.xhtml
 
-# 课程订阅方式
+# 3 课程订阅方式
 ![购买课程](https://github.com/russelltao/geektime-webprotocol/blob/master/poster.jpg)

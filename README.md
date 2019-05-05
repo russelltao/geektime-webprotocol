@@ -25,15 +25,14 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 [RFC2141](https://tools.ietf.org/html/rfc2141 "RFC2141")
 * URI格式
 [RFC1630](https://tools.ietf.org/html/rfc1630 "RFC1630")、[RFC3986](https://tools.ietf.org/html/RFC3986 "RFC3986")
-### 2.4.2 HTTP基本消息格式：
-[RFC7230](https://tools.ietf.org/html/rfc7230 "RFC7230")、[RFC7231](https://tools.ietf.org/html/rfc7231 "RFC7231")
-### 2.4.3 Range请求：
-[RFC7233](https://tools.ietf.org/html/rfc7233 "RFC7233")
-### 2.4.4 条件请求：
-[RFC7232](https://tools.ietf.org/html/rfc7232 "RFC7232")
-### 2.4.5 缓存：
-[RFC7234](https://tools.ietf.org/html/rfc7234 "RFC7234")
-### 2.4.6 其他RFC文档：
+### 2.4.2 HTTP消息格式：
+* 基本格式 [RFC7230](https://tools.ietf.org/html/rfc7230 "RFC7230")、[RFC7231](https://tools.ietf.org/html/rfc7231 "RFC7231")
+* Range请求 [RFC7233](https://tools.ietf.org/html/rfc7233 "RFC7233")
+* 条件请求 [RFC7232](https://tools.ietf.org/html/rfc7232 "RFC7232")
+* 缓存 [RFC7234](https://tools.ietf.org/html/rfc7234 "RFC7234")
 * WEBDAV [RFC2518](https://tools.ietf.org/html/RFC2518 "RFC2518")
 * Content-Disposition头部 [RFC6266](https://tools.ietf.org/html/RFC6266 "RFC6266")
+* Cookie状态管理 [RFC6265](https://tools.ietf.org/html/RFC6265 "RFC6265")
+
+### 2.4.6 其他RFC文档：
 * MIME扩展类型https://www.iana.org/assignments/media-types/media-types.xhtml

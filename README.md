@@ -35,3 +35,4 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 [RFC7234](https://tools.ietf.org/html/rfc7234 "RFC7234")
 ### 2.4.6 其他RFC文档：
 * WEBDAV [RFC2518](https://tools.ietf.org/html/RFC2518 "RFC2518")
+* MIME扩展类型https://www.iana.org/assignments/media-types/media-types.xhtml

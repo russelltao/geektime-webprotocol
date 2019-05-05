@@ -33,6 +33,7 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 * WEBDAV [RFC2518](https://tools.ietf.org/html/RFC2518 "RFC2518")
 * Content-Disposition头部 [RFC6266](https://tools.ietf.org/html/RFC6266 "RFC6266")
 * Cookie状态管理 [RFC6265](https://tools.ietf.org/html/RFC6265 "RFC6265")
+* 同源策略 [RFC6454](https://tools.ietf.org/html/RFC6454 "RFC6454")
 
-### 2.4.6 其他RFC文档：
+### 2.4.6 其他文档：
 * MIME扩展类型https://www.iana.org/assignments/media-types/media-types.xhtml

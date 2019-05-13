@@ -25,7 +25,7 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 [RFC2141](https://tools.ietf.org/html/rfc2141 "RFC2141")
 * URI格式
 [RFC1630](https://tools.ietf.org/html/rfc1630 "RFC1630")、[RFC3986](https://tools.ietf.org/html/RFC3986 "RFC3986")
-### 2.4.2 HTTP消息格式：
+### 2.4.2 HTTP消息格式
 * 基本格式 [RFC7230](https://tools.ietf.org/html/rfc7230 "RFC7230")、[RFC7231](https://tools.ietf.org/html/rfc7231 "RFC7231")
 * Range请求 [RFC7233](https://tools.ietf.org/html/rfc7233 "RFC7233")
 * 条件请求 [RFC7232](https://tools.ietf.org/html/rfc7232 "RFC7232")
@@ -34,6 +34,12 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 * Content-Disposition头部 [RFC6266](https://tools.ietf.org/html/RFC6266 "RFC6266")
 * Cookie状态管理 [RFC6265](https://tools.ietf.org/html/RFC6265 "RFC6265")
 * 同源策略 [RFC6454](https://tools.ietf.org/html/RFC6454 "RFC6454")
-
+### 2.4.3 Websocket消息格式
+* Websocket格式 [rfc6455](https://tools.ietf.org/html/rfc6455 "rfc6455")
 ### 2.4.6 其他文档：
 * MIME扩展类型https://www.iana.org/assignments/media-types/media-types.xhtml
+
+# 2.5 协议
+DNS协议 https://www.inacon.de/ph/data/DNS/
+# 3 课程订阅方式
+![购买课程](https://github.com/russelltao/geektime-webprotocol/blob/master/poster.jpg)

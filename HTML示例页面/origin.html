@@ -1,0 +1,32 @@
+<html>
+<body>
+<p>本页面来自http://protocol.taohui.tech,将要通过ajax访问http://cross-origin.taohui.tech/access</p>
+<p id="p1">从跨域请求得到的响应</p>
+<script>
+var invocation = new XMLHttpRequest();
+var url = 'http://cross-origin.taohui.tech/access';
+   
+function handler() {
+	if (invocation.readyState==4)
+	{
+		if (invocation.status==200){// 200 = OK
+			console.log(invocation.responseText);
+			document.getElementById("p1").innerHTML=invocation.responseText;
+		}
+		else{
+			alert("Problem retrieving XML data");
+		}
+	}
+}
+function callOtherDomain() {
+  if(invocation) {    
+    invocation.open('GET', url, true);
+    invocation.onreadystatechange = handler;
+    invocation.send(); 
+  }
+}
+
+callOtherDomain();
+</script>
+</body>
+</html>

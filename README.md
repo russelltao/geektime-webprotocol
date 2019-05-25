@@ -17,7 +17,7 @@ https://wiki.wireshark.org/SampleCaptures
 ### 2.3.2 官方用户手册
 https://www.wireshark.org/docs/wsug_html_chunked/
 
-## 2.4 RFC文档
+## 2.4 RFC(Request for Comments)文档
 ### 2.4.1 URI格式
 * URL格式
 [RFC1738](https://tools.ietf.org/html/rfc1738 "RFC1738")
@@ -35,7 +35,11 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 * Cookie状态管理 [RFC6265](https://tools.ietf.org/html/RFC6265 "RFC6265")
 * 同源策略 [RFC6454](https://tools.ietf.org/html/RFC6454 "RFC6454")
 ### 2.4.3 Websocket消息格式
-* Websocket格式 [rfc6455](https://tools.ietf.org/html/rfc6455 "rfc6455")
+* Websocket格式 [RFC6455](https://tools.ietf.org/html/rfc6455 "rfc6455")
+* Websocket压缩扩展 [RFC7692](https://tools.ietf.org/html/rfc7692 "rfc7692")
+### 2.4.4 HTTP2消息格式
+* HTTP2格式 [RFC7540](https://tools.ietf.org/html/rfc7540 "rfc7540")
+* ALPN（Application-Layer Protocol Negotiation Extension）扩展 [RFC7301](https://tools.ietf.org/html/rfc7301 "rfc7301")
 ### 2.4.6 其他文档：
 * MIME扩展类型https://www.iana.org/assignments/media-types/media-types.xhtml
 

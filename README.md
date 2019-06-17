@@ -39,6 +39,7 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 * Websocket压缩扩展 [RFC7692](https://tools.ietf.org/html/rfc7692 "rfc7692")
 ### 2.4.4 HTTP2消息格式
 * HTTP2格式 [RFC7540](https://tools.ietf.org/html/rfc7540 "rfc7540")
+* HPACK头部压缩 [RFC7541](https://tools.ietf.org/html/rfc7541)
 * ALPN（Application-Layer Protocol Negotiation Extension）扩展 [RFC7301](https://tools.ietf.org/html/rfc7301 "rfc7301")
 ### 2.4.6 其他文档：
 * MIME扩展类型https://www.iana.org/assignments/media-types/media-types.xhtml

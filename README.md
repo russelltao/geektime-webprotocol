@@ -45,6 +45,7 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 * MIME扩展类型https://www.iana.org/assignments/media-types/media-types.xhtml
 ### 2.4.7 TLS协议：
 * TLS1.3 [RFC8446](https://tools.ietf.org/html/rfc8446 "rfc8446")
+* 椭圆曲线安全性 [RFC7748](https://tools.ietf.org/html/rfc7748 "rfc7748")
 
 # 2.5 协议
 DNS协议 https://www.inacon.de/ph/data/DNS/

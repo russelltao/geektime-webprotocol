@@ -46,7 +46,7 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 ### 2.4.7 TLS协议：
 * TLS1.3 [RFC8446](https://tools.ietf.org/html/rfc8446 "rfc8446")
 * 椭圆曲线安全性 [RFC7748](https://tools.ietf.org/html/rfc7748 "rfc7748")
-### 2.4.7 TCP协议：
+### 2.4.8 TCP协议：
 * TCP [RFC793](https://tools.ietf.org/html/rfc793 "rfc793")
 * TCP FAST OPEN [RFC7413](https://tools.ietf.org/html/rfc7413 "rfc7413")
 

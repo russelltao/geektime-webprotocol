@@ -54,6 +54,9 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 * 主机实现TCP协议细节 [RFC1122](https://tools.ietf.org/html/rfc1122 "rfc1122")
 * TCP校验和 [RFC1146](https://tools.ietf.org/html/rfc1146 "rfc1146")
 * TCP高性能扩展 [RFC1323](https://tools.ietf.org/html/rfc1323 "rfc1323")
+* TCP选择性重传报文段 [RFC2018](https://tools.ietf.org/html/rfc2018 "rfc2018")
+* TCP拥塞控制 [RFC2581](https://tools.ietf.org/html/rfc2581 "rfc2581")
+* 计算重传定时器 [RFC2988](https://tools.ietf.org/html/rfc2988 "rfc2988")
 * TCP FAST OPEN [RFC7413](https://tools.ietf.org/html/rfc7413 "rfc7413")
 
 # 2.5 协议

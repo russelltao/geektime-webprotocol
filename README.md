@@ -48,6 +48,8 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 * 椭圆曲线安全性 [RFC7748](https://tools.ietf.org/html/rfc7748 "rfc7748")
 ### 2.4.8 TCP协议：
 * TCP [RFC793](https://tools.ietf.org/html/rfc793 "rfc793")
+* TCP窗口确认策略 [RFC813](https://tools.ietf.org/html/rfc813 "rfc813")
+* TCP最大报文段长度MSS [RFC879](https://tools.ietf.org/html/rfc879 "rfc879")
 * TCP FAST OPEN [RFC7413](https://tools.ietf.org/html/rfc7413 "rfc7413")
 
 # 2.5 协议

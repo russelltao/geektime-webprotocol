@@ -57,6 +57,7 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 * TCP选择性重传报文段 [RFC2018](https://tools.ietf.org/html/rfc2018 "rfc2018")
 * TCP拥塞控制 [RFC2581](https://tools.ietf.org/html/rfc2581 "rfc2581")
 * 计算重传定时器 [RFC2988](https://tools.ietf.org/html/rfc2988 "rfc2988")
+* 改进重传定时器 [RFC6298](https://tools.ietf.org/html/rfc6298 "rfc6298")
 * TCP FAST OPEN [RFC7413](https://tools.ietf.org/html/rfc7413 "rfc7413")
 
 # 2.5 协议
